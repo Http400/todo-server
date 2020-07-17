@@ -1,3 +1,9 @@
+Before launching the app it is necessary to create `.env` file in the project directory. It needs to include following environment variables:
+  - PORT
+  - DATABASE_URI
+  - TOKEN_SECRET_KEY
+  - REFRESH_TOKEN_SECRET_KEY
+
 ### `git submodule update --init --recursive`
 
 Pulls GIT Submodule.
