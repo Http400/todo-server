@@ -1,7 +1,19 @@
 ### `git submodule update --init --recursive`
 
-Pulling GIT Submodule
+Pulls GIT Submodule.
 
 ### `git submodule update --remote --merge`
 
-Updating GIT Submodule
+Updates GIT Submodule.
+
+### `npm run dev`
+
+Runs the app in the development mode.
+
+### `npm run prod`
+
+Runs the app in the production mode.
+
+### `npm run tsc`
+
+Builds the app for production.
