@@ -35,7 +35,7 @@
         "@types/mongoose": "^5.5.3",
         "chai": "^4.2.0",
         "chai-as-promised": "^7.1.1",
-        "mocha": "^6.1.4",
+        "mocha": "^10.2.0",
         "ts-mockito": "^2.4.1",
         "ts-node": "^8.2.0",
         "ts-node-dev": "^1.0.0-pre.39",
